@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suryanshu Verma</h1>
-<h3 align="center">🚀 Web & Mobile App Developer | MERN Stack | React Native | AI Enthusiast from Nepal</h3>
+<h3 align="center">🚀 Web & Mobile App Developer | MERN Stack | React Native | Blockchain Enthusiast from Nepal</h3>
 
 <p align="center">
   <a href="https://suryanshuverma.com.np" target="_blank">🌐 Portfolio</a> • 
