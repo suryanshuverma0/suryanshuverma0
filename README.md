@@ -305,16 +305,6 @@ Deep-learning system for detecting pneumonia from chest X-ray images.
   />
 </p>
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/suryanshuverma0/suryanshuverma0/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="95%"
-  />
-</p>
-
 ---
 
 # 📚 Currently Learning
