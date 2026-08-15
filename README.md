@@ -27,6 +27,8 @@
   <img src="https://komarev.com/ghpvc/?username=suryanshuverma0&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+---
+
 <h2 align="center">🧠 LeetCode</h2>
 
 <p align="center">
@@ -36,6 +38,18 @@
       alt="LeetCode Profile"
     />
   </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/suryanahu0?theme=dark&font=Karma&ext=heatmap"
+    alt="Suryanshu's LeetCode Stats"
+    width="500"
+  />
+</p>
+
+<p align="center">
+  <i>Strengthening algorithms, data structures, and problem-solving through consistent practice.</i>
 </p>
 
 <p align="center">
@@ -262,6 +276,18 @@ Deep-learning system for detecting pneumonia from chest X-ray images.
 
 ---
 
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=suryanshuverma0&theme=onedark&no-frame=true&no-bg=true&row=1"
+    alt="GitHub Trophies"
+    width="95%"
+  />
+</p>
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -322,59 +348,63 @@ Deep-learning system for detecting pneumonia from chest X-ray images.
 
 ---
 
-# 🎯 What I'm Interested In
+---
+
+<h2 align="center">🚀 What I Build</h2>
 
 <table align="center">
 <tr>
-<td align="center" width="180">
 
-### ⚙️
+<td align="center" width="220">
 
-**Backend**
+<h3>⚙️ Backend Systems</h3>
 
-APIs  
-Authentication  
-Caching  
-Scalability
+REST APIs<br>
+Authentication<br>
+Authorization<br>
+Caching<br>
+Rate Limiting<br>
+API Security
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="220">
 
-### ⛓️
+<h3>💻 Full-Stack Apps</h3>
 
-**Blockchain**
+React<br>
+Node.js<br>
+MongoDB<br>
+Redis<br>
+Cloudinary<br>
+Production Deployment
 
-Ethereum  
-Solidity  
-Smart Contracts  
+</td>
+
+<td align="center" width="220">
+
+<h3>⛓️ Blockchain</h3>
+
+Ethereum<br>
+Solidity<br>
+Smart Contracts<br>
+Hardhat<br>
+Ethers.js<br>
 Web3
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="220">
 
-### 🤖
+<h3>🤖 AI Applications</h3>
 
-**AI**
-
-RAG  
-LLM Applications  
+RAG<br>
+LLM APIs<br>
+Knowledge Systems<br>
 AI Integration
 
 </td>
 
-<td align="center" width="180">
-
-### 🏗️
-
-**Engineering**
-
-System Design  
-Architecture  
-DevOps
-
-</td>
 </tr>
 </table>
 
