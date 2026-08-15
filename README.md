@@ -27,6 +27,21 @@
   <img src="https://komarev.com/ghpvc/?username=suryanshuverma0&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
+<h2 align="center">🧠 LeetCode</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/suryanahu0/">
+    <img
+      src="https://img.shields.io/badge/LeetCode-suryanahu0-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="LeetCode Profile"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Strengthening data structures, algorithms, and problem-solving through consistent practice.</i>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
