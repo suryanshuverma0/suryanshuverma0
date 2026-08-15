@@ -278,15 +278,6 @@ Deep-learning system for detecting pneumonia from chest X-ray images.
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=suryanshuverma0&theme=onedark&no-frame=true&no-bg=true&row=1"
-    alt="GitHub Trophies"
-    width="95%"
-  />
-</p>
 
 # 📊 GitHub Analytics
 
